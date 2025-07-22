@@ -28,7 +28,7 @@ Com esses dados, o dashboard mostra insights sobre meus hábitos e preferências
 
 ## 📸 Visual do Painel
 
-> ![Visual do Painel](./
+> ![Visual do Painel](.Opera%20Instant%C3%A2neo_2025-07-22_181731_app.powerbi.com.png)
 
 ---
 
@@ -59,7 +59,7 @@ Os dados utilizados são baseados na minha própria rotina de leitura.
 
 ## 📬 Contato
 
-Se quiser conversar sobre o projeto, trocar ideias ou dar sugestões, pode me chamar pelo [LinkedIn](https://www.linkedin.com/in/seu-usuario-aqui) ou me mandar uma mensagem aqui no GitHub!
+Se quiser conversar sobre o projeto, trocar ideias ou dar sugestões, pode me chamar pelo [LinkedIn](www.linkedin.com/in/emilly-rosa-603233222) ou me mandar uma mensagem aqui no GitHub!
 
 ---
 
