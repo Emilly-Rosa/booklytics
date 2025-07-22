@@ -28,7 +28,7 @@ Com esses dados, o dashboard mostra insights sobre meus hábitos e preferências
 
 ## 📸 Visual do Painel
 
-> 
+> ![Visual do Painel](./
 
 ---
 
