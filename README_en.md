@@ -28,7 +28,7 @@ With this data, the dashboard shows insights into my reading preferences and beh
 
 ## 📸 Dashboard Preview
 
-> 
+> ![Dashboard Preview](.Opera%20Instant%C3%A2neo_2025-07-22_181731_app.powerbi.com.png)
 
 ---
 
